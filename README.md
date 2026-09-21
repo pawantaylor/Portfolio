@@ -29,8 +29,8 @@ This portfolio contains publicly available documentation, technical articles, pr
 ### VuNet Systems
 
 #### Product Documentation
-*[Alerts in User Guide](https://learn.vunetsystems.com/docs/user-guide/platform-guide/observability-studios/alerts/)
-*[Dashboards](https://learn.vunetsystems.com/docs/user-guide/platform-guide/dashboards/dashboard/)
+* [Alerts in User Guide](https://learn.vunetsystems.com/docs/user-guide/platform-guide/observability-studios/alerts/)
+* [Dashboards](https://learn.vunetsystems.com/docs/user-guide/platform-guide/dashboards/dashboard/)
 
 #### Technical Blogs & Articles
 
